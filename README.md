@@ -1,7 +1,6 @@
-### Welcome! I'm Rosaline Tep 💕
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7A0C6&lines=%F0%9F%92%95+Welcome+To+My+Page!+%F0%9F%92%95)](https://git.io/typing-svg)
+### I'm Rosaline Tep!
 Let's Connect on LinkedIn! [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rosaline-tep-6b335a209/)
-
 I'm a recent graduate (Nov 2021) holding a **Bachelor's in Computer Science** from Tennessee State University! 🎓📜
 
 I have formal experience and proficiency in software engineering in the languages **Python, Java, MySQL, and C#** from college, but I have been learning **BASH and Linux System Administration** in general on my own.
