@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome! My name is Rosaline Tep :cat_meow:
 
 <!--
 **rosalinet/rosalinet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
