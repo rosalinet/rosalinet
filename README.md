@@ -1,6 +1,6 @@
 ### Welcome! I'm Rosaline Tep 💕
 
-[![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rosaline-tep-6b335a209/)
+Let's Connect on LinkedIn! [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rosaline-tep-6b335a209/)
 
 I'm a recent graduate (Nov 2021) holding a **Bachelor's in Computer Science** from Tennessee State University! 🎓📜
 
