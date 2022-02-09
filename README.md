@@ -1,5 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7A0C6&lines=%F0%9F%92%95+Welcome+To+My+Page!+%F0%9F%92%95)](https://git.io/typing-svg)
-### I'm Rosaline Tep!
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23F7A0C6&height=30&lines=%F0%9F%92%95+Welcome+To+My+Page!+%F0%9F%92%95)](https://git.io/typing-svg)
+###![image](https://user-images.githubusercontent.com/92281462/153282757-920f04e3-70ab-402b-82f8-bb849fd45a38.png)I'm Rosaline Tep!
 Let's Connect on LinkedIn! [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rosaline-tep-6b335a209/)
 I'm a recent graduate (Nov 2021) holding a **Bachelor's in Computer Science** from Tennessee State University! 🎓📜
 
