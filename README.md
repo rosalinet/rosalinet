@@ -17,7 +17,8 @@ I have formal experience and proficiency in software engineering in the language
 - 👾🎮 Add me on Discord if you wanna play sometime! (TooMatcha#7927)
   (I typically play Minecraft, Valorant, or Siege, but I'm down for anything)
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
+
 
 
 
