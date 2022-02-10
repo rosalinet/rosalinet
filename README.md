@@ -2,7 +2,7 @@
   <img width="400" src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif">
 </p>
 <h2 align="center">
-  Hello, I'm Rosaline Tep! 
+  Hello, I'm Rose Tep! 
   <img width="60" src="https://media.giphy.com/media/iF1ZApye3OwZk0H2iL/giphy.gif">
 </h2>
 
