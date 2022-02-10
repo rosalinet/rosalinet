@@ -37,7 +37,7 @@ Currently, I am studying Linux, and I'd like to attribute my steady pace to my *
 <img width="40" src="https://media.giphy.com/media/apyuTUQx1bYSPR9tzw/giphy.gif"> <b>Currently Reading:</b> Linux in Action by David Clinton
 </p>
 <p>
-<img width="40" src="https://media.giphy.com/media/ggi86yYHxzCEuNv4JP/giphy.gif"> <b>Currently Studying:</b> Archiving files using tar, dd, rsync, ssh, and scp to remote AWS S3 servers.
+<img width="40" src="https://media.giphy.com/media/ggi86yYHxzCEuNv4JP/giphy.gif"> <b>Currently Studying:</b> Archiving files using tar, dd, rsync, ssh, and scp to remote servers. (Also playing with AWS S3!)
 </p>
 <p>
 <img width="40" src="https://media.giphy.com/media/ksldIWvYvHZ13ndp0s/giphy.gif"> <b>Ask Me About My MODDED Minecraft Server!</b> (Pssst! I have a repo with the server details!)
