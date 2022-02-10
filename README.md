@@ -2,7 +2,8 @@
   <img width="400" src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif">
 </p>
 <h2 align="center">
-  Hello, I'm Rose Tep! 
+  <img width="60" src="https://media.giphy.com/media/iijkcFtfCVMs0vOR2J/giphy.gif">
+  Hello, I'm Rose! 
   <img width="60" src="https://media.giphy.com/media/iF1ZApye3OwZk0H2iL/giphy.gif">
 </h2>
 
@@ -36,7 +37,7 @@ Currently, I am studying Linux, and I'd like to attribute my steady pace to my *
 <img width="40" src="https://media.giphy.com/media/apyuTUQx1bYSPR9tzw/giphy.gif"> <b>Currently Reading:</b> Linux in Action by David Clinton
 </p>
 <p>
-<img width="40" src="https://media.giphy.com/media/tJ3Q1xVVapkcXzGUaU/giphy.gif"> <b>Currently Studying:</b> Archiving files using tar, dd, rsync, ssh, and scp to remote servers.
+<img width="40" src="https://media.giphy.com/media/ggi86yYHxzCEuNv4JP/giphy.gif"> <b>Currently Studying:</b> Archiving files using tar, dd, rsync, ssh, and scp to remote servers.
 </p>
 <p>
 <img width="40" src="https://media.giphy.com/media/ksldIWvYvHZ13ndp0s/giphy.gif"> <b>Ask Me About My MODDED Minecraft Server!</b> (Pssst! I have a repo with the server details!)
