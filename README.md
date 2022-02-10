@@ -48,11 +48,11 @@ Currently, I am studying Linux, and I'd like to attribute my steady pace to my *
 
 <h2></h2>
 
-Let's Connect on
+<p align="center"><b>Let's Connect on</b>
 <a href="https://www.linkedin.com/in/rosaline-tep-6b335a209/">
 <img align ="center" width="70" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg">
 </a>
-
+</p>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
 
