@@ -1,7 +1,6 @@
-<div align="center">
-<img height="30" src="https://cdn.discordapp.com/attachments/932235016795193404/934481282753237002/tumblr_m2idi2P6Tx1qid2nw540.gif">
-<img height="30" src="https://cdn.discordapp.com/attachments/932235016795193404/934481282753237002/tumblr_m2idi2P6Tx1qid2nw540.gif">
-</div>
+<p align="center">
+<img height="30" src="https://cdn.discordapp.com/attachments/932235016795193404/933893012919054356/29F79E3A-B28A-449F-A191-F6676A3AC31E.gif">
+</p>
 <p align="center">
   <img width="400" src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif">
 </p>
@@ -52,7 +51,9 @@ Currently, I am studying Linux, and I'd like to attribute my steady pace to my *
 (I play Val, Minecraft, and Siege mostly, but I'm down to play anything!)
 </p>
 
-<h2></h2>
+<p align="center">
+<img height="30" src="https://cdn.discordapp.com/attachments/932235016795193404/933124693500772382/14F3BE60-4CE6-4D3F-8033-7E1E0D129E71.gif">
+</p>
 
 <p align="center"><b>Let's Connect on</b>
 <a href="https://www.linkedin.com/in/rosaline-tep-6b335a209/">
