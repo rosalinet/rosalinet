@@ -1,3 +1,9 @@
+<div>
+<img height="30" src="https://cdn.discordapp.com/attachments/932235016795193404/934481282753237002/tumblr_m2idi2P6Tx1qid2nw540.gif">
+<img height="30" src="https://cdn.discordapp.com/attachments/932235016795193404/934481282753237002/tumblr_m2idi2P6Tx1qid2nw540.gif">
+<img height="30" src="https://cdn.discordapp.com/attachments/932235016795193404/934481282753237002/tumblr_m2idi2P6Tx1qid2nw540.gif">
+<img height="30" src="https://cdn.discordapp.com/attachments/932235016795193404/934481282753237002/tumblr_m2idi2P6Tx1qid2nw540.gif">
+</div>
 <p align="center">
   <img width="400" src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif">
 </p>
