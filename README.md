@@ -12,7 +12,7 @@
 
 I'm a recent graduate (Nov 2021 🎓🎉) holding a **Bachelor's in Computer Science**! I actually started my college career studying Nursing, and one semester in, I realized it wasn't for me. After taking a few intro to programming classes, I completely fell in love.
 
-Currently, I am studying Linux, and I'd like to attribute my steady pace to my *software engineering background* that has trained me to process difficult topics from a more *logical perspective*. I have been continuing my lifelong learning journey through *online courses/resources and mentorship*, and you can see some of my progress here in my repositories! *(P.S. I created this README on a Windows PC with a Virtual Machine running Ubuntu Desktop in the terminal and finalized the graphics in the browser 😁)*
+Currently, I am studying Linux, and I'd like to attribute my steady pace to my *software engineering background* that has trained me to process difficult topics from a more logical perspective. I have been continuing my lifelong learning journey through *online courses/resources and mentorship*, and you can see some of my progress here in my repositories! *(Fun Fact! I created this README on a Windows PC with a Virtual Machine running Ubuntu Desktop in the terminal and finalized the graphics in the browser 😁)*
 
 <h2 align="center">
   Languages and Tools
