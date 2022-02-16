@@ -34,8 +34,8 @@ Currently, I am studying Linux, and I'd like to attribute my steady pace to my *
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" title="AWS" alt="AWS" width="40" height="40"/>
 </div>
 <h2 align="center">
-  What Am I Up To? 
   <img width="60" src="https://media.giphy.com/media/WMRb9p6N4mtIRtE2zr/giphy.gif">
+  What Am I Up To? 
 </h2>
 <p>
 <img width="40" src="https://media.giphy.com/media/apyuTUQx1bYSPR9tzw/giphy.gif"> <b>Currently Reading:</b> Linux in Action by David Clinton
@@ -52,13 +52,23 @@ Currently, I am studying Linux, and I'd like to attribute my steady pace to my *
 </p>
 
 <p align="center">
-<img height="30" src="https://cdn.discordapp.com/attachments/932235016795193404/933124693500772382/14F3BE60-4CE6-4D3F-8033-7E1E0D129E71.gif">
+<img height="30" src="https://cdn.discordapp.com/attachments/932235016795193404/934261623370170428/IMG_4236.gif">
 </p>
-
 <p align="center"><b>Let's Connect on</b>
 <a href="https://www.linkedin.com/in/rosaline-tep-6b335a209/">
 <img align ="center" width="70" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg">
 </a>
+</p>
+<p align="center">
+<img height="30" src="https://cdn.discordapp.com/attachments/932235016795193404/934261623147888660/unknown.png">
+</p>
+
+<h3 align="center">
+  Extra Certifications/Courses Completed
+  <img width="60" src="https://media.giphy.com/media/fw3XuXcz1p1AZdZOH8/giphy.gif">
+</h3>
+<p align="center">
+<a href="https://www.linkedin.com/learning/certificates/818c24dfa825b7d688a2dfabab36ab0123ae4b892fa879884c9d23f1c043adc8?trk=share_certificate">Learning CentOS Linux - Certificate of Completion</a>
 </p>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
