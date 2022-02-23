@@ -56,7 +56,7 @@ Currently, I am studying Linux, and I'd like to attribute my steady pace to my *
 <img height="30" src="https://cdn.discordapp.com/attachments/932235016795193404/934261623370170428/IMG_4236.gif">
 </p>
 <p align="center"><b>Let's Connect on</b>
-<a href="https://www.linkedin.com/in/rosalinetep">
+<a href="https://www.linkedin.com/in/rosalinet">
 <img align ="center" width="70" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg">
 </a>
 </p>
