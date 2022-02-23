@@ -71,6 +71,9 @@ Currently, I am studying Linux, and I'd like to attribute my steady pace to my *
 <p align="center">
 <a href="https://www.linkedin.com/learning/certificates/818c24dfa825b7d688a2dfabab36ab0123ae4b892fa879884c9d23f1c043adc8?trk=share_certificate">Learning CentOS Linux - Certificate of Completion</a>
 </p>
+<p align="center">
+<a href="https://www.linkedin.com/learning/certificates/fd1cf0792548936d4230b4bffa247dd84baec209a60d4d41d88d7cf4ef1758a3?trk=share_certificate">Networking Foundations: Networking Basics - Certificate of Completion</a>
+</p>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
 
