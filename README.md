@@ -80,7 +80,3 @@ Currently, I am studying Linux, and I'd like to attribute my steady pace to my *
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
 
-<p align="center">
-<img height="=30" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light">
-</p>
-
