@@ -78,5 +78,13 @@ Currently, I am studying Linux, and I'd like to attribute my steady pace to my *
 <img height="15" src="https://cdn.discordapp.com/attachments/932235016795193404/947744874017488926/linha_8-3-1-3-1-1-1-1-2-1-1-1-1-2.gif">
 </p>
 
+<!---
+This was the first version of the "programming quote of the day" but I wanted it centered. I'm keeping this commented just in case, because this is a new change.
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
+--->
 
+<p align="center">
+<a href="https://github.com/piyushsuthar/github-readme-quotes">
+<img align ="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light">
+</a>
+</p>
