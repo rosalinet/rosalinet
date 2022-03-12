@@ -39,16 +39,16 @@ Currently, I am studying Linux, and I'd like to attribute my steady pace to my *
   What Am I Up To? 
 </h2>
 <p>
-<img width="40" src="https://media.giphy.com/media/apyuTUQx1bYSPR9tzw/giphy.gif"> <b>Currently Reading:</b> Linux in Action by David Clinton
+<img width="40" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F3.bp.blogspot.com%2F-BK238rvfyMw%2FVLSH2f70knI%2FAAAAAAAAOEU%2FBURWfxx8PqI%2Fs1600%2Freadicon.png&f=1&nofb=1"> <b>Currently Reading:</b> Linux in Action by David Clinton
 </p>
 <p>
-<img width="40" src="https://media.giphy.com/media/ggi86yYHxzCEuNv4JP/giphy.gif"> <b>Currently Studying:</b> Archiving files using tar, dd, rsync, ssh, and scp to remote servers. (Also playing with AWS S3!)
+<img width="40" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn170.picsart.com%2Fupscale-233895315065212.png&f=1&nofb=1"> <b>Currently Studying:</b> Archiving files using tar, dd, rsync, ssh, and scp to remote servers. (Also playing with AWS S3!)
 </p>
 <p>
-<img width="40" src="https://media.giphy.com/media/ksldIWvYvHZ13ndp0s/giphy.gif"> <b>Ask Me About My MODDED Minecraft Server!</b> (Pssst! I have a repo with the server details!)
+<img width="40" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Forig00.deviantart.net%2F74c6%2Ff%2F2013%2F025%2Fc%2F3%2Fminecraft_ghast_by_bwpastel-d5sqi0i.png&f=1&nofb=1"> <b>Ask Me About My MODDED Minecraft Server!</b> (Pssst! I have a repo with the server details!)
 </p>
 <p>
-<img width="40" src="https://media.giphy.com/media/ceUY9mubodXVYC0HlD/giphy.gif"> <b>Add me on Discord if you wanna play sometime: TooMatcha#7927</b>
+<img width="40" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F7a%2Fa1%2Fec%2F7aa1ec46754b58a4b28cf3b6b7e83897.png&f=1&nofb=1">join my Discord server</a> if you wanna play some time! </b>
 (I play Val, Minecraft, and Siege mostly, but I'm down to play anything!)
 </p>
 
