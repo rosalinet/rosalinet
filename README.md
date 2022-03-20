@@ -78,5 +78,5 @@ Currently, I am studying Linux, and I'd like to attribute my steady pace to my *
 <img height="15" src="https://cdn.discordapp.com/attachments/932235016795193404/947744874017488926/linha_8-3-1-3-1-1-1-1-2-1-1-1-1-2.gif">
 </p>
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
 
