@@ -42,10 +42,10 @@ Currently, I am studying Linux, and I'd like to attribute my steady pace to my *
   What Am I Up To? 
 </h2>
 <p>
-<img width="40" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F3.bp.blogspot.com%2F-BK238rvfyMw%2FVLSH2f70knI%2FAAAAAAAAOEU%2FBURWfxx8PqI%2Fs1600%2Freadicon.png&f=1&nofb=1"> <b>Currently Reading:</b> Linux in Action by David Clinton
+<img width="40" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F3.bp.blogspot.com%2F-BK238rvfyMw%2FVLSH2f70knI%2FAAAAAAAAOEU%2FBURWfxx8PqI%2Fs1600%2Freadicon.png&f=1&nofb=1"> <b>Currently Reading:</b> RHCSA Guidebook
 </p>
 <p>
-<img width="40" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn170.picsart.com%2Fupscale-233895315065212.png&f=1&nofb=1"> <b>Currently Studying:</b> Creating a frontend for my tarot reading generator with Flask!
+<img width="40" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn170.picsart.com%2Fupscale-233895315065212.png&f=1&nofb=1"> <b>Currently Studying:</b> RHCSA and RHCSE Exams!
 </p>
 <p>
 <img width="40" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Forig00.deviantart.net%2F74c6%2Ff%2F2013%2F025%2Fc%2F3%2Fminecraft_ghast_by_bwpastel-d5sqi0i.png&f=1&nofb=1"> <b>Ask Me About My MODDED Minecraft Server!</b> (Pssst! I have a repo with the server details!)
