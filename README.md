@@ -78,6 +78,9 @@ Currently, I am studying Linux, and I'd like to attribute my steady pace to my *
 <a href="https://www.credly.com/badges/0e518b0e-cca9-400f-8a9c-cc46640e4867/public_url">AWS Certified Cloud Practitioner</a>
 </p>
 <p align="center">
+<a href="https://www.credly.com/badges/68394c4b-d29d-4ef6-8c5a-e648cf5277c9/public_url">AZ-900: Azure FUndamentals</a>
+</p>
+<p align="center">
 <a href="https://www.linkedin.com/learning/certificates/818c24dfa825b7d688a2dfabab36ab0123ae4b892fa879884c9d23f1c043adc8?trk=share_certificate">Learning CentOS Linux - Certificate of Completion</a>
 </p>
 <p align="center">
