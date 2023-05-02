@@ -10,9 +10,7 @@
   <img width="60" src="https://media.giphy.com/media/iF1ZApye3OwZk0H2iL/giphy.gif">
 </h2>
 
-I'm a recent graduate (Nov 2021 🎓🎉) holding a **Bachelor's in Computer Science**! I actually started my college career studying Nursing, and one semester in, I realized it wasn't for me. After taking a few intro to programming classes, I completely fell in love.
-
-Currently, I am studying Linux, and I'd like to attribute my steady pace to my *software engineering background* that has trained me to process difficult topics from a more logical perspective. I have been continuing my lifelong learning journey through *online courses/resources and mentorship*, and you can see some of my progress here in my repositories! *(Fun Fact! I created this README on a Windows PC with a Virtual Machine running Ubuntu Desktop in the terminal and finalized the graphics in the browser 😁)*
+Currently, I am a Junior Account Solution Architect at Red Hat! I have been continuing my lifelong learning journey after college through *online courses/resources and mentorship*, and you can see some of my progress here in my repositories!
 
 <h2 align="center">
   Languages and Tools
@@ -85,6 +83,9 @@ Currently, I am studying Linux, and I'd like to attribute my steady pace to my *
 </p>
 <p align="center">
 <a href="https://www.linkedin.com/learning/certificates/fd1cf0792548936d4230b4bffa247dd84baec209a60d4d41d88d7cf4ef1758a3?trk=share_certificate">Networking Foundations: Networking Basics - Certificate of Completion</a>
+</p>
+<p align="center">
+<a href="https://www.linkedin.com/learning/certificates/5673aab147649a9fe87efd803a37079f72db6d1d79a9de1485a96c882f439645">Presenting Technical Information with Stories</a>
 </p>
 <p align="center">
 <img height="15" src="https://cdn.discordapp.com/attachments/932235016795193404/947744874017488926/linha_8-3-1-3-1-1-1-1-2-1-1-1-1-2.gif">
