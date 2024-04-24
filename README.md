@@ -1,16 +1,15 @@
-<p align="center">
-<img height="30" src="https://cdn.discordapp.com/attachments/932235016795193404/933893012919054356/29F79E3A-B28A-449F-A191-F6676A3AC31E.gif">
-</p>
-<p align="center">
-  <img width="400" src="https://media.giphy.com/media/137EaR4vAOCn1S/giphy.gif">
-</p>
-<h2 align="center">
+<table>
+  <tr>
+    <td><img width=400 src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWZ2bjlsZnlmdnNsZTU4aXZjdHdyY3R0aXgyaWlrZWU0NmJ3NTNmNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Qc0BxWM9TxljvJug2x/giphy.gif"></td>
+    <td><h2 align="center">
   <img width="60" src="https://media.giphy.com/media/iijkcFtfCVMs0vOR2J/giphy.gif">
   Hello, I'm Rose! 
   <img width="60" src="https://media.giphy.com/media/iF1ZApye3OwZk0H2iL/giphy.gif">
-</h2>
-
-As a Jr Solution Architect at Red Hat, my objective is to leverage my understanding in architecture design, Red Hat's technology stack (and other non-Red Hat Cloud offerings), and client collaboration to drive the strategic success of organizations. I am committed to utilizing my technical knowledge, communication skills, and customer-focused experiences to craft robust, adaptable, and future-proof solutions that address complex business challenges and foster sustainable growth. I'm always excited and open for learning new things, and I'm continuously growing my skills through mentorship, online resources, and Red Hat's Training and Certifications. My objective is to solve real world problems with tech solutions! 
+  </h2>
+      As a Junior Solution Architect at Red Hat, my goal is to design robust and adaptable solutions that drive organizational success. I leverage my expertise in architecture design, Red Hat’s technology stack, and collaboration with clients. My commitment to continuous learning and customer-focused experiences empowers me to address complex business challenges and foster sustainable growth. Through mentorship, online resources, and Red Hat’s Training and Certifications, I strive to solve real-world problems with innovative tech solutions
+    </td>
+  </tr>
+</table>
 
 <h2 align="center">
   Languages and Tools
@@ -43,14 +42,14 @@ As a Jr Solution Architect at Red Hat, my objective is to leverage my understand
 <img width="40" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F3.bp.blogspot.com%2F-BK238rvfyMw%2FVLSH2f70knI%2FAAAAAAAAOEU%2FBURWfxx8PqI%2Fs1600%2Freadicon.png&f=1&nofb=1"> <b>Currently Reading:</b> Any Romance/Villainess Manhwa! haha
 </p>
 <p>
-<img width="40" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn170.picsart.com%2Fupscale-233895315065212.png&f=1&nofb=1"> <b>Currently Studying:</b> Google Cloud Digital Leader & RHCE
+<img width="40" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fcdn170.picsart.com%2Fupscale-233895315065212.png&f=1&nofb=1"> <b>Currently Studying:</b> Google Cloud Digital Leader (Just passed my RHCE!)
 </p>
 <p>
 <img width="40" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Forig00.deviantart.net%2F74c6%2Ff%2F2013%2F025%2Fc%2F3%2Fminecraft_ghast_by_bwpastel-d5sqi0i.png&f=1&nofb=1"> <b>Ask Me About My Minecraft Server!</b> (Pssst! I have a repo with old modded server details!)
 </p>
 <p>
 <img width="40" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F7a%2Fa1%2Fec%2F7aa1ec46754b58a4b28cf3b6b7e83897.png&f=1&nofb=1">Join my <a href="https://discord.gg/wXbeTUBu">Discord server</a> if you wanna play some time! </b>
-(I play Valorant, Phasmophobia, and Minecraft mostly, but I'm down to play anything!)
+(I play Valorant, Overwatch, Phasmophobia, and Minecraft mostly, but I'm down to play anything!)
 </p>
 
 <p align="center">
@@ -61,9 +60,6 @@ As a Jr Solution Architect at Red Hat, my objective is to leverage my understand
 <img align ="center" width="70" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg">
 </a>
 </p>
-<p align="center">
-<img height="30" src="https://cdn.discordapp.com/attachments/932235016795193404/934261623147888660/unknown.png">
-</p>
 
 <h3 align="center">
   Extra Certifications/Courses Completed
@@ -71,6 +67,9 @@ As a Jr Solution Architect at Red Hat, my objective is to leverage my understand
 </h3>
 <p align="center">
 <a href="https://rhtapps.redhat.com/verify/?certId=220-140-123">Red Hat Certified System Administrator</a>
+</p>
+<p align="center">
+<a href="https://www.credly.com/badges/76be466e-b964-40ac-858d-48982fdfb8c0/public_url">Red Hat Certified Engineer</a>
 </p>
 <p align="center">
 <a href="https://www.credly.com/badges/0e518b0e-cca9-400f-8a9c-cc46640e4867/public_url">AWS Certified Cloud Practitioner</a>
@@ -87,9 +86,10 @@ As a Jr Solution Architect at Red Hat, my objective is to leverage my understand
 <p align="center">
 <a href="https://www.linkedin.com/learning/certificates/5673aab147649a9fe87efd803a37079f72db6d1d79a9de1485a96c882f439645">Presenting Technical Information with Stories</a>
 </p>
-<p align="center">
-<img height="15" src="https://cdn.discordapp.com/attachments/932235016795193404/947744874017488926/linha_8-3-1-3-1-1-1-1-2-1-1-1-1-2.gif">
-</p>
+<span align="center">
+  
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)](https://github.com/piyushsuthar/github-readme-quotes) 
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=light)](https://github.com/piyushsuthar/github-readme-quotes)
+</span>
+
 
