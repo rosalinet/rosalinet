@@ -15,10 +15,14 @@
   Languages and Tools
   <img width="60" src="https://media.giphy.com/media/G9mDLvTpupWke1vEkU/giphy.gif">
 </h2>
-<div>
+<div align="center">
+  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redhat/redhat-original.svg" title="RedHat" alt="RedHat" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" title="Ansible" alt="Ansible" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"  title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg"  title="Ubuntu" alt="Ubuntu" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/centos/centos-original.svg"  title="CentOS" alt="CentOS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"  title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg"  title="Jupyter" alt="Jupyter" width="40" height="40"/>&nbsp;
@@ -30,9 +34,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>
 </div>
 <h2 align="center">
   <img width="60" src="https://media.giphy.com/media/WMRb9p6N4mtIRtE2zr/giphy.gif">
@@ -57,14 +59,16 @@
 </p>
 <p align="center"><b>Let's Connect on</b>
 <a href="https://www.linkedin.com/in/rosalinet">
-<img align ="center" width="70" src="https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg">
+<img align ="center" width="70" src="https://1000marcas.net/wp-content/uploads/2020/01/Logo-Linkedin.png">
 </a>
 </p>
 
 <h3 align="center">
+  <img width="40" src="https://static.vecteezy.com/system/resources/previews/010/153/350/original/certificate-icon-sign-symbol-design-free-png.png">
   Extra Certifications/Courses Completed
-  <img width="60" src="https://media.giphy.com/media/fw3XuXcz1p1AZdZOH8/giphy.gif">
+  <img width="40" src="https://media.giphy.com/media/fw3XuXcz1p1AZdZOH8/giphy.gif">
 </h3>
+<h4 align="center">Click <a href="https://www.credly.com/users/rosaline-tep" target="_blank">here</a> to get to my Credly account!</h4>
 <p align="center">
 <a href="https://rhtapps.redhat.com/verify/?certId=220-140-123">Red Hat Certified System Administrator</a>
 </p>
