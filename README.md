@@ -6,7 +6,7 @@
   Hello, I'm Rose! 
   <img width="60" src="https://media.giphy.com/media/iF1ZApye3OwZk0H2iL/giphy.gif">
   </h2>
-      As a Junior Solution Architect at Red Hat, my goal is to design robust and adaptable solutions that drive organizational success. I leverage my knowledge in IT architecture design, Red Hat’s technology stack, and collaboration with clients. My commitment to continuous learning and customer-focused experiences empowers me to address complex business challenges and foster sustainable growth. Through mentorship, online resources, and Red Hat’s Training and Certifications, I strive to solve real-world problems with innovative tech solutions.
+      As a Solution Architect at Red Hat, my goal is to design robust and adaptable solutions that drive organizational success. I leverage my knowledge in IT architecture design, Red Hat’s technology stack, and collaboration with our awesome clients. My commitment to continuous learning and customer-focused experiences empowers me to address complex business challenges and foster sustainable growth. Through mentorship, online resources, and Red Hat’s Training and Certifications, I strive to solve real-world problems with innovative tech solutions.
     </td>
   </tr>
 </table>
